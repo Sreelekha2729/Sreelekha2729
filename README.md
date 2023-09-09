@@ -30,8 +30,8 @@ Here are some of the projects I've worked on:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](linkedin.com/in/sree-lekha-munagala-a58177237)
-- [Email](mailto:sreelekha2729@gmail.com)
+- [LinkedIn:linkedin.com/in/sree-lekha-munagala-a58177237](linkedin.com/in/sree-lekha-munagala-a58177237)
+- [Email:sreelekha2729@gmail.com](mailto:sreelekha2729@gmail.com)
 
 ## 🤝 Let's Collaborate
 

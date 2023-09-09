@@ -5,10 +5,39 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Sreelekha-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sreelekha-yellow)](https://stackoverflow.com/users/3687251/sreelekha-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+I'm a 4th year student at St.Martin'S Engineering College with specialization in Computer Science Artificial Intelligence and Machine Learning,Passionate about software development, open source, and learning new technologies.Strong communication and teamwork skills developed through group projects and leadership roles.Seeking an opportunity to apply my knowledge and enthusiasm to drive innovation and achieve tangible results for an organization in IT industry.
 
+## 🔧 Skills
+
+- **Programming Languages:** Python, Java, C.
+- **Web Development:** HTML, CSS, JavaScript.
+- **Version Control:** Git, GitHub.
+
+## 🌱 I'm Currently Learning
+
+I'm always eager to expand my knowledge and stay up-to-date with the latest trends in technology. Right now, I'm focusing on:
+
+- Currently I'm an Intern in Edureka as Full Stack Web Developer.
+- Currently implementing Mini Project on Environment Condition Monitoring using AI Models form IOT Telemetry Sensor Data.
+
+## 💼 Projects
+
+Here are some of the projects I've worked on:
+
+1. Animated Car and Bike Project using HTML,CSS and JavaScript.
+2. Dragon Game Project using HTML,CSS and JavaScript.
+3. Zomato App.
+
+## 🌐 Connect with Me
+
+- [LinkedIn](linkedin.com/in/sree-lekha-munagala-a58177237)
+- [Email](mailto:sreelekha2729@gmail.com)
+
+## 🤝 Let's Collaborate
+
+I'm always open to collaboration on interesting projects. If you have an idea or project you'd like to work on together, feel free to reach out!
+ 
+Thanks for visiting my GitHub profile! 😄
 
 ![Visitor Count](https://profile-counter.glitch.me/sreelekha2729/count.svg)
 

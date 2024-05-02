@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Sreelekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sreelekha--01629954/)](https://www.linkedin.com/in/Sreelekha--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sreelekha-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sreelekha-yellow)](https://stackoverflow.com/users/3687251/sreelekha-)

@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sreelekha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sreelekha--01629954/)](https://www.linkedin.com/in/Sreelekha--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sreelekha-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sreelekha-yellow)](https://stackoverflow.com/users/3687251/sreelekha-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sreelekha-yellow)](https://stackoverflow.com/users/22358771/m-sree-lekha)
 
 I'm a 4th year student at St.Martin'S Engineering College with specialization in Computer Science Artificial Intelligence and Machine Learning,Passionate about software development, open source, and learning new technologies.Strong communication and teamwork skills developed through group projects and leadership roles.Seeking an opportunity to apply my knowledge and enthusiasm to drive innovation and achieve tangible results for an organization in IT industry.
 

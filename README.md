@@ -8,9 +8,11 @@ I'm a 4th year student at St.Martin'S Engineering College with specialization in
 
 ## 🔧 Skills
 
-- **Programming Languages:** Python, Java, C.
-- **Web Development:** HTML, CSS, JavaScript.
-- **Version Control:** Git, GitHub.
+- **Programming Languages:** C Sharp, ASP.Net, ADO.Net, JavaScript, SQL, Python.
+- **Technologies/Frameworks:** HTML, CSS, React, MongoDB, Express, NodeJS, Bootstrap.
+- **Developer Tools:** VS Code, Git, GitHub.
+- **Areas of Interest:** Web Design and Development.
+- **Soft Skills:** Self-learning, Presentation, Adaptability.
 
 ## 🌱 I'm Currently Learning
 

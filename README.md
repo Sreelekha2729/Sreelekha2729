@@ -21,13 +21,50 @@ I'm always eager to expand my knowledge and stay up-to-date with the latest tren
 - Currently I'm an Intern in Edureka as Full Stack Web Developer.
 - Currently implementing Mini Project on Environment Condition Monitoring using AI Models form IOT Telemetry Sensor Data.
 
+# Welcome to My GitHub Profile!
+
 ## 💼 Projects
 
 Here are some of the projects I've worked on:
 
-1. Animated Car and Bike Project using HTML,CSS and JavaScript.
-2. Dragon Game Project using HTML,CSS and JavaScript.
-3. Zomato App.
+### 🚗 Animated Car and Bike Project
+An interactive project featuring animations of cars and bikes.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View Project](https://github.com/your-username/animated-car-bike-project)
+
+### 🐉 Dragon Game Project
+A fun dragon-themed game with animations and interactive elements.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View Project](https://github.com/your-username/dragon-game-project)
+
+### 🍽️ Zomato App
+A restaurant discovery and review app inspired by Zomato.
+- **Technologies:** React, Node.js
+- **Link:** [View Project](https://sreelekha2729.github.io/Zomato-App-Page2/)
+
+### 🌍 Environment Condition Monitoring using AI Models from IoT Telemetry Sensor Data | Mini Project
+Developed an AI model for real-time analysis of IoT sensor data to monitor environmental conditions.
+- **Description:** Improved detection and prediction of environmental factors such as temperature, humidity, and air quality. Utilized IoT and machine learning to preprocess and analyze sensor data, offering real-time visualizations and alerts.
+- **Technologies:** Python, TensorFlow, Data Visualization Tools
+- **Link:** [View Project](https://github.com/your-username/environment-condition-monitoring)
+
+### 🚆 Real-Time Anomaly Detection in Metro Train APU Compressors | Major Project
+Designed and deployed algorithms for real-time anomaly detection in metro train APU compressors.
+- **Description:** Enhanced predictive maintenance capabilities by analyzing compressor operation data. Improved reliability and reduced downtime with advanced analytics for quicker issue detection and accurate responses.
+- **Technologies:** Advanced Analytics, Predictive Maintenance Techniques
+- **Link:** [View Project](https://github.com/your-username/anomaly-detection-metro-train)
+
+### 🍛 Indian Snacks Website
+Created a responsive website showcasing a variety of Indian snacks.
+- **Description:** Designed an interactive site with React for the frontend, utilizing HTML and Bootstrap for styling. The backend was developed using Express.js and Node.js, with MongoDB integrated for managing snack inventory and user data. Implemented user authentication and authorization to ensure secure access.
+- **Technologies:** React, HTML, Bootstrap, Express.js, Node.js, MongoDB
+- **Link:** [View Project](https://github.com/Sreelekha2729/IndianSnacks_App).
+
+### 🧮 Calculator
+Formulated a user-friendly calculator with basic arithmetic operations.
+- **Description:** Features clear and memory functions with real-time updates using JavaScript. Ensured accurate calculations and a clean interface using CSS.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View Project](https://sreelekha2729.github.io/Calculator_Project/)
 
 ## 🌐 Connect with Me
 

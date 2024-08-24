@@ -39,7 +39,7 @@ A fun dragon-themed game with animations and interactive elements.
 
 ### 🍽️ Zomato App
 A restaurant discovery and review app inspired by Zomato.
-- **Technologies:** React, Node.js
+- **Technologies:** HTML, CSS
 - **Link:** [View Project](https://sreelekha2729.github.io/Zomato-App-Page2/)
 
 ### 🌍 Environment Condition Monitoring using AI Models from IoT Telemetry Sensor Data | Mini Project
